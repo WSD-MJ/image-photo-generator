@@ -1,5 +1,5 @@
 ---
-name: corporate-portrait-generator
+name: image-photo-generator
 description: >
   AI-powered corporate portrait photo generator. Upload a personal photo and get
   a polished, professional business portrait. Supports multiple backgrounds and
