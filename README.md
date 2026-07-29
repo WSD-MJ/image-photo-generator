@@ -10,6 +10,12 @@ Upload a selfie (URL or base64) and choose a style; it returns a business-grade 
 
 ## Install / use
 
+Install with the [skills CLI](https://www.skills.sh/docs/cli):
+
+```bash
+npx skills add WSD-MJ/image-photo-generator
+```
+
 The skill lives in [`corporate-portrait-generator/SKILL.md`](./corporate-portrait-generator/SKILL.md).
 
 1. Get an API key at https://ai.wsdsocial.com/skills
