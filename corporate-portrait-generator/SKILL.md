@@ -40,7 +40,7 @@ curl -X POST "https://ai.wsdsocial.com/api/pub/skills/corporate-portrait-generat
 
 | Param               | Type          | Required | Description |
 |---------------------|---------------|:--------:|-------------|
-| `request`           | String        | Yes      | Styling preferences. Background options: classic light gray, seamless pure white. Outfit options: executive suit, black polo, gray T-shirt, minimalist crew-neck white. Suitable for office and social scenarios. |
+| `request`           | String        | Yes      | Styling preferences. Background options: classic light gray, seamless pure white. Outfit options: executive suit, business shirt, corporate polo. Designed for formal use cases such as employee badges, staff ID cards, access cards, and company team pages. |
 | `custom_data`       | Object        | No       | Photo data container |
 | `custom_data.files` | Array<String> | No       | List of photo URLs or base64-encoded images |
 
